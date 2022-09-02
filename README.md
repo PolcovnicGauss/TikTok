@@ -1,5 +1,4 @@
-# TikTok
-TikTok captcha solving
+# TikTok captcha solving
 I present the solution of the circular and 3D captcha tiktok.
 working example:
 
